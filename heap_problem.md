@@ -1,4 +1,5 @@
-# Magical box bags problems 05/22
+## Heaps 05/22
+# Magical box bags problems 
 
 --Problem: 
 --Explanation: 
@@ -9,3 +10,9 @@
 --C++
 
 # Largest triple products
+#
+--Explanation
+ Tres pasos: colocar el elemento si es menor al tope del max heap. si es mayor al max heap se convierte en el tope de max heap }
+ balancear heaps
+ guardar resp
+ 
