@@ -15,7 +15,7 @@
  Tres pasos: colocar el elemento si es menor al tope del max heap. si es mayor al max heap se convierte en el tope de max heap }
  balancear heaps
  guardar resp
- ´´´cpp
+ ```cpp
  // Your First C++ Program
 
 #include <iostream>
@@ -25,5 +25,5 @@ int main() {
     return 0;
 }
 
- ´´´cpp
+ ```cpp
  #
